@@ -1,0 +1,14 @@
+{
+    "name": "CarCare",
+    "description": "Car Care Application",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "3.x",
+        "mongodb": "*"
+    },
+    "engines": {
+        "node": "0.8.4",
+        "npm": "1.1.49"
+    }
+}
